@@ -1,6 +1,5 @@
 # Miscellaneous
 
-[![](https://img.shields.io/badge/Jet-blue)](https://github.com/hydroper-jet)
 [![](https://img.shields.io/badge/Phantasy%20Star%20III%20Remake%20Demo-blue)](https://hydroper.itch.io/ps3-demo)
 
 # Company log
